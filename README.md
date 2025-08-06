@@ -1,10 +1,12 @@
 ﻿# ZZZ-Builder
 
 Agent select
-<img width="850" height="1063" alt="image" src="https://github.com/user-attachments/assets/a36a01d4-e9cb-4186-b11e-ac74dc5010fe" />
+<img width="923" height="1119" alt="image" src="https://github.com/user-attachments/assets/13ccd607-7196-43f8-8208-f3a4ed451383" />
+
 
 Team creation
-<img width="746" height="1053" alt="image" src="https://github.com/user-attachments/assets/0c25c11a-9a49-4a54-9b66-94be67f1402c" />
+<img width="935" height="1116" alt="image" src="https://github.com/user-attachments/assets/431b0b5f-83af-4111-91c0-b82d93f72e13" />
+
 
 TODO
 - select weakness attributes for each team
@@ -17,3 +19,4 @@ TODO
 icon from https://icons8.com/icon/QLeZrlrfQaTK/spa-flower
 
 All characters, names, and assets are the property of Hoyoverse.
+
