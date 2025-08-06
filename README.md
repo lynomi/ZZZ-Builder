@@ -1,13 +1,12 @@
 ﻿# ZZZ-Builder
 
-<img width="931" height="1120" alt="image" src="https://github.com/user-attachments/assets/b4e82d2a-b12d-473c-9c4f-f9fb0a8f285a" />
+Agent select
+<img width="850" height="1063" alt="image" src="https://github.com/user-attachments/assets/a36a01d4-e9cb-4186-b11e-ac74dc5010fe" />
 
-<img width="926" height="1126" alt="image" src="https://github.com/user-attachments/assets/6ff2e541-5e77-42bf-844d-985bbc1927ac" />
-
-icon from https://icons8.com/icon/QLeZrlrfQaTK/spa-flower
+Team creation
+<img width="746" height="1053" alt="image" src="https://github.com/user-attachments/assets/0c25c11a-9a49-4a54-9b66-94be67f1402c" />
 
 TODO
-
 - select weakness attributes for each team
 - clicking the characters on teams panel shows their build
 - button to select all A rank agents
@@ -15,25 +14,6 @@ TODO
     prioritize reaching the # of teams in future and sacrifice team quality
 - add priority status, forces an agent to be on a team
 
+icon from https://icons8.com/icon/QLeZrlrfQaTK/spa-flower
 
-DPS AGENT IDs
-DPS agents have IDs >0, supports have 0
-1 Miyabi
-2 Yixuan
-3 Evelyn
-4 Yanagi
-5 Seed
-6 Alice
-7 S0 Anby
-8 Hugo
-9 Ellen
-10 Zhu Yuan
-11 Harumasa
-12 Jane Doe
-13 Piper
-14 Soldier 11
-15 Billy
-16 Corin
-17 Nekomata
-18 Grace
-19 Anton
+All characters, names, and assets are the property of Hoyoverse.
