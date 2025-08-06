@@ -1,4 +1,4 @@
-﻿# ZZZ-Builder
+﻿# ZZZ Builder
 
 Agent select
 <img width="923" height="1119" alt="image" src="https://github.com/user-attachments/assets/13ccd607-7196-43f8-8208-f3a4ed451383" />
@@ -19,4 +19,3 @@ TODO
 icon from https://icons8.com/icon/QLeZrlrfQaTK/spa-flower
 
 All characters, names, and assets are the property of Hoyoverse.
-
