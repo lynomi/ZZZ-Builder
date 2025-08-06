@@ -1,0 +1,3 @@
+C:/Projects/ZZZBuilder/build/CMakeFiles/ZZZBuilder.dir
+C:/Projects/ZZZBuilder/build/CMakeFiles/edit_cache.dir
+C:/Projects/ZZZBuilder/build/CMakeFiles/rebuild_cache.dir

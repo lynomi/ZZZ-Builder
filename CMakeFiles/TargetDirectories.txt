@@ -1,0 +1,3 @@
+C:/Projects/ZZZHelper/CMakeFiles/ZZZHelper.dir
+C:/Projects/ZZZHelper/CMakeFiles/ALL_BUILD.dir
+C:/Projects/ZZZHelper/CMakeFiles/ZERO_CHECK.dir

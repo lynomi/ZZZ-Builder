@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+be18acd4aa850d009fc318e8d81b8bca qrc_fonts.cpp
