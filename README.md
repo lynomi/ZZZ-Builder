@@ -9,7 +9,7 @@ Program that takes your agents and shows their best teams for Shiyu Defense/Dead
 # Create Teams
 <img width="935" height="1116" alt="image" src="https://github.com/user-attachments/assets/431b0b5f-83af-4111-91c0-b82d93f72e13" />
 
-This is based on a teams database I created which can be found through build/teams, so there will be many teams missing. Currently there are not any unconventional support carry teams like Lucy/Lighter/Astra, since those can be difficult to play or misleading for a new player.
+This operates based on a teams database I created, which can be found in build>teams, so there will be many teams missing before I update it. Currently there are not any unconventional support carry teams like Lucy/Lighter/Astra, since those can be difficult to play or misleading for a new player. Agents that I am unfamiliar with have teams taken from prydwen's database https://www.prydwen.gg/zenless
 
 TODO
 - add more teams
@@ -22,5 +22,6 @@ TODO
 icon from https://icons8.com/icon/QLeZrlrfQaTK/spa-flower
 
 All characters, names, and assets are the property of Hoyoverse.
+
 
 
