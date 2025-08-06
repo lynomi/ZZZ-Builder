@@ -1,5 +1,5 @@
 ﻿# ZZZ Builder
-updated for version 2.1
+Updated for version 2.1
 
 Program that takes your agents and shows their best teams for Shiyu Defense/Deadly Assault
 
@@ -9,7 +9,7 @@ Program that takes your agents and shows their best teams for Shiyu Defense/Dead
 # Create Teams
 <img width="935" height="1116" alt="image" src="https://github.com/user-attachments/assets/431b0b5f-83af-4111-91c0-b82d93f72e13" />
 
-This uses a teams database which can be found through build>teams, and I only put the ones I can recall, so there will be teams missing. Currently there are not any unconventional support carry teams like Lucy/Lighter/Astra, since those can be difficult to play or misleading for a new player.
+This is based on a teams database I created which can be found through build/teams, so there will be many teams missing. Currently there are not any unconventional support carry teams like Lucy/Lighter/Astra, since those can be difficult to play or misleading for a new player.
 
 TODO
 - add more teams
@@ -22,4 +22,5 @@ TODO
 icon from https://icons8.com/icon/QLeZrlrfQaTK/spa-flower
 
 All characters, names, and assets are the property of Hoyoverse.
+
 
