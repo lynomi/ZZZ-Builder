@@ -1,8 +1,8 @@
 ﻿# ZZZ Builder
  
 A tool that takes your agents and shows their best teams for Shiyu Defense/Deadly Assault
-
 Updated for version 2.1
+(I plan to move this to a page for future updates for ease of access)
 
 Agent Select
 <img width="923" height="1119" alt="image" src="https://github.com/user-attachments/assets/13ccd607-7196-43f8-8208-f3a4ed451383" />
@@ -23,6 +23,7 @@ TODO
 icon from https://icons8.com/icon/QLeZrlrfQaTK/spa-flower
 
 All characters, names, and assets are the property of Hoyoverse.
+
 
 
 
