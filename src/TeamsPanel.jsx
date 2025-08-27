@@ -6,7 +6,7 @@ function TeamsPanel({ agentList, selectedAgents }) {
   const [numTeams, setNumTeams] = useState(1);
 
   useEffect(() => {
-    fetch("/teamData.json")
+    fetch("teamData.json")
       .then(res => res.json())
       .then(data => setTeamData(data))
       .catch(err => console.error("Failed to load teams:", err));
@@ -91,7 +91,7 @@ function TeamsPanel({ agentList, selectedAgents }) {
               >
                 {agent ? (
                   <img
-                    src={`/src/assets/agents/${agent.getName()}.jpg`}
+                    src={`src/assets/agents/${agent.getName()}.jpg`}
                     style={{
                       width: "60px",
                       height: "60px",

@@ -29,9 +29,9 @@ body {
   min-width: 320px;
   min-height: 100vh;
   background-image: url('./assets/background.svg');
-  background-size: cover;       /* cover entire viewport */
-  background-position: center;  /* center the image */
-  background-repeat: no-repeat; /* don’t repeat */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   color: #FFF0F3;
   font-family: "Wendy One", sans-serif;
 }

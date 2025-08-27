@@ -15,7 +15,7 @@ function TopBar() {
         }}>
 
         <img
-            src="/app-icon.png"
+            src="app-icon.png"
             alt="App Icon"
             style={{
             height: "40px",
