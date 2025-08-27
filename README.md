@@ -1,4 +1,14 @@
 # ZZZ Builder
+A tool that takes your agents and shows their best teams for Shiyu Defense/Deadly Assault
+Updated for version 2.1
 
-color palette: https://coolors.co/palette/590d22-800f2f-a4133c-c9184a-ff4d6d-ff758f-ff8fa3-ffb3c1-ffccd5-fff0f3
-icon from https://icons8.com/icon/QLeZrlrfQaTK/spa-flower"# ZZZ-Builder" 
+<img width="1578" height="1146" alt="image" src="https://github.com/user-attachments/assets/90fdad61-4268-4a1b-8a13-f1d03c746923" />
+
+
+Future plans
+- add WAY more teams
+- weakness/boss focused team
+- add build tooltips for agents
+
+icon: https://icons8.com/icon/QLeZrlrfQaTK/spa-flower"# ZZZ-Builder" 
+All characters are the property of Hoyoverse.
