@@ -24,6 +24,23 @@ function TopBar() {
         />
 
         <h2 style={{ margin: 30 }}><strong>ZZZ Builder</strong></h2>
+
+        <a 
+            href="https://github.com/lynomi/ZZZ-Builder"
+            target="_blank"
+            rel="noopener noreferrer"
+            style = {{
+                position: "fixed",
+                top: "10px",
+                right: "20px"
+            }}
+        >
+            <img 
+                src="github-icon.svg" 
+                alt="Description" 
+                style={{ width: "40px", height: "40px", cursor: "pointer" }} 
+            />
+        </a>
         
         </div>
 
