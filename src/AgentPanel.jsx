@@ -33,7 +33,7 @@ function AgentPanel({ agents, onToggle, onEnableRank }) {
         }}
       >
         {agents.map(({ agent, selected }) => {
-          const imagePath = `src/assets/agents/${agent.getName()}.jpg`;
+          const imagePath = `agents/${agent.getName()}.jpg`;
 
           return (
             <button

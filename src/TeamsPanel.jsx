@@ -91,7 +91,7 @@ function TeamsPanel({ agentList, selectedAgents }) {
               >
                 {agent ? (
                   <img
-                    src={`src/assets/agents/${agent.getName()}.jpg`}
+                    src={`agents/${agent.getName()}.jpg`}
                     style={{
                       width: "60px",
                       height: "60px",
