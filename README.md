@@ -12,6 +12,7 @@ Future plans
 - add WAY more teams
 - weakness/boss focused team
 - add build tooltips for agents
+- issue where agents mess up team order when alone on a team
 
 icon: https://icons8.com/icon/QLeZrlrfQaTK/spa-flower"# ZZZ-Builder" 
 All characters are the property of Hoyoverse.
