@@ -8,7 +8,7 @@ Updated for version 2.1
 <img width="1578" height="1146" alt="image" src="https://github.com/user-attachments/assets/90fdad61-4268-4a1b-8a13-f1d03c746923" />
 
 
-Future plans
+TODO:
 - add WAY more teams
 - weakness/boss focused team
 - add build tooltips for agents
